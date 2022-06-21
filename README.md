@@ -1,10 +1,15 @@
+********DESCRPTION********
+
 this game uses math i hope you enjoy it !!
+
+
+**SOCIAL MEDIA**
 
 github: HACKOSAN 
 
-instagram: hacko.dev]
+instagram: hacko.dev
 
-how to install on linux 
+**INSTALLATION ON LINUX**
 
 $ sudo apt install git
 
